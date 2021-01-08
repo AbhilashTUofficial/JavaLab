@@ -1,5 +1,4 @@
 package com.javaLab.Extracting_A_String.A;
-
 import java.io.DataInputStream;
 
 public class part{
@@ -19,6 +18,5 @@ public class part{
         }
         System.out.println("Actual string is " + str);
         System.out.println("Actual string is " + str.substring(n1, n2));
-
     }
 }

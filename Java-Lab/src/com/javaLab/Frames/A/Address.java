@@ -1,5 +1,4 @@
 package com.javaLab.Frames.A;
-
 import javax.swing.*;
 import java.awt.*;
 

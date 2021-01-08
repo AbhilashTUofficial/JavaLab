@@ -1,8 +1,6 @@
 package com.javaLab.To_Append_Text_File.A;
-
 import java.io.IOException;
 import java.io.RandomAccessFile;
-import java.util.RandomAccess;
 
 public class AppendTextFile {
     public static void main(String args[]){

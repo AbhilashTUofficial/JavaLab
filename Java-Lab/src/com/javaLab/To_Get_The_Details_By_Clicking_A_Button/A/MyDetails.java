@@ -1,16 +1,12 @@
 package com.javaLab.To_Get_The_Details_By_Clicking_A_Button.A;
-
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
-import java.awt.event.WindowAdapter;
-import java.awt.event.WindowEvent;
 
 public class MyDetails extends JFrame implements ActionListener {
     TextField txtName, txtCity, txtStreet, txtPincode;
     Button butMyDetails;
-
     MyDetails() {
         setLayout(new GridLayout(5, 2));
         txtName = new TextField(25);
@@ -32,7 +28,6 @@ public class MyDetails extends JFrame implements ActionListener {
         setVisible(true);
         setDefaultCloseOperation(EXIT_ON_CLOSE);
     }
-
     @Override
     public void actionPerformed(ActionEvent e) {
         txtName.setText("Abhilash Tu");

@@ -1,15 +1,12 @@
 package com.javaLab.Mouse_Events.A;
-
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.MouseEvent;
 import java.awt.event.MouseListener;
 import java.awt.event.MouseMotionListener;
-import java.sql.Time;
 
 public class MouseEvents extends JFrame implements MouseListener, MouseMotionListener {
     int x,y,ch;
-    Timer time;
     public MouseEvents(){
         setSize(400,400);
         setVisible(true);

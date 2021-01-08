@@ -1,19 +1,8 @@
 package com.javaLab.Different_Shapes.A;
+import javax.swing.*;
 import java.awt.*;
-import java.awt.event.*;
-public class Shapes extends Frame{
-    boolean a;
-    Shapes(){
-        a=false;
-        setLayout(null);
-        addWindowListener(new W());
-    }
-    class W extends WindowAdapter{
-        public void WindowClosing(WindowEvent e){
-            if(a)dispose();
-            else System.exit(0);
-        }
-    }
+
+public class Shapes extends JFrame {
     public void paint(Graphics g){
         g.drawString("DIFFERENT SHAPES",250,45);
         g.drawLine(250,48,360,48);
@@ -31,12 +20,12 @@ public class Shapes extends Frame{
         g.drawLine(210,360,360,360);
         g.drawString("OVAL",500,250);
         g.drawOval(450,265,160,90);
-
     }
     public static void main(String args[]){
         Shapes S=new Shapes();
         S.setSize(790,570);
         S.setTitle("Shapes");
         S.setVisible(true);
+        S.setDefaultCloseOperation(EXIT_ON_CLOSE);
     }
 }
