@@ -1,18 +1,21 @@
 # Java programming lab
 ## Index
+|No.|Program|Understood|Completed|Difficulty|
+|:---|:---:|:---:|:---:|:---:|
+|1|Extracting a string|☑|✅|⭐|
+|2|Multiple inheritance using interfaces|☑|✅|⭐⭐|
+|3|Exception|☑|✅|⭐⭐|
+|4|Multithreading|☑|✅|⭐⭐⭐⭐|
+|5|Different shapes|☑|✅|⭐⭐|
+|6|To get the details by clicking a button|☑|✅|⭐⭐|
+|7|Multiple selection box|☑|✅|⭐|
+|8|Frames|☑|✅|⭐|
+|9|Menu events|☑|✅|⭐|
+|10|Mouse events|☑|✅|⭐|
+|11|Mouse click positions|☑|✅|⭐|
+|12|To append text file|☑|✅|⭐|
 
-- Extracting a string
-- Multiple inheritance using interfaces
-- Exception
-- Multithreading
-- Different shapes
-- To get the details by clicking a button
-- Multiple selection box
-- Frames
-- Menu events
-- Mouse events
-- Mouse click positions
-- To append text file
+
 
 ### Languages & tools :
 [<img align="left" alt="Git" width="26px" src="https://github.com/AbhilashTUofficial/AbhilashTuofficial/blob/main/logos/tools/git.png">][github]
