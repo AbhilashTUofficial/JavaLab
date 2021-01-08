@@ -1,7 +1,7 @@
 # Multiple selection box
 
 ### Aim :
-       Write a java application to demonstrate the multi selection list box.
+       Write a java application to demonstrate the multi-selection list box.
        
 ### Algorithm :
        

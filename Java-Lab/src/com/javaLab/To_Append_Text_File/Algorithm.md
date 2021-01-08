@@ -1,7 +1,7 @@
 # Extracting String
 
 ### Aim :
-       Write a java application to open a existing file and write text to it.
+       Write a java application to open an existing file and write text to it.
        
 ### Algorithm :
        
@@ -9,7 +9,7 @@
        Start the process.
        
        Step 2:
-       Create a class and a static main funtion.
+       Create a class and a static main function.
        
        Step 3:
        Create a RandomAccessFile object and a try-catch statement.
