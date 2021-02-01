@@ -14,13 +14,13 @@
        Create tostring function to return the prompt for the exception.
        
        Step 4:
-       Create a class Demo with a funtion compute to throw payOutOfBounds exception. 
+       Create a class Demo with a function compute to throw payOutOfBounds exception. 
        
        Step 5:
-       Create a if statement to throw the payOutOfBounds.
+       Create an if statement to throw the payOutOfBounds.
        
        Step 6:
-       create a try catch statement on a static main function, display the exception.
+       create a try-catch statement on a static main function, display the exception.
               
        Step 7:
        Stop the process.

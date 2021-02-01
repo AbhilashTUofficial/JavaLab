@@ -9,7 +9,7 @@
        Start the process.
        
        Step 2:
-       Decleare the variables.
+       Declare the variables.
        
        Step 3:
        Open a try statement.
