@@ -6,7 +6,7 @@
 |1|Extracting a string|☑|✅|⭐|
 |2|Multiple inheritance using interfaces|☑|✅|⭐⭐|
 |3|Exception|☑|✅|⭐⭐|
-|4|Multithreading||||
+|4|Multithreading|☑|✅|⭐⭐⭐|
 |5|Different shapes|☑|✅|⭐⭐|
 |6|To get the details by clicking a button|☑|✅|⭐⭐|
 |7|Multiple selection box|☑|✅|⭐|
