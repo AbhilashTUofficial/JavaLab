@@ -1,5 +1,13 @@
 # Java programming lab
 
+### Languages & tools :
+[<img align="left" alt="Java" width="32px" src="./Img/java.png">][java]
+[<img align="left" alt="Intellij" width="26px" src="./Img/intellij.png">][java]
+<br/><br/>
+
+![GitHub last commit](https://img.shields.io/github/last-commit/AbhilashTUofficial/JavaLab?color=blue&label=Last%20Commit%3A&style=for-the-badge)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/AbhilashTUofficial/JavaLab?label=Repo%20Size%3A&style=for-the-badge)
+
 ## Index
 |No.|Program|Understood|Completed|Difficulty|
 |:---|:---:|:---:|:---:|:---:|
@@ -16,14 +24,6 @@
 |11|Mouse click positions||||
 |12|To append text file|☑|✅|⭐|
 
-
-### Languages & tools :
-[<img align="left" alt="Java" width="32px" src="./Img/java.png">][java]
-[<img align="left" alt="Intellij" width="26px" src="./Img/intellij.png">][java]
-<br/><br/>
-
-![GitHub last commit](https://img.shields.io/github/last-commit/AbhilashTUofficial/JavaLab?color=blue&label=Last%20Commit%3A&style=for-the-badge)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/AbhilashTUofficial/JavaLab?label=Repo%20Size%3A&style=for-the-badge)
 
 ### Connect with me :  
 <a href="https://twitter.com/Abhilash_TU" target="_blank">
